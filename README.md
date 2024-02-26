@@ -1,3 +1,4 @@
 # db-azue
-this is knowledge purpose for ms-sql and azure synapse analytics .
+This is knowledge purpose for ms-sql and azure synapse analytics .
+<br>
 auther - Vinod Kumar
